@@ -4,10 +4,14 @@
   <groupId>com.example</groupId>
   <artifactId>my-app</artifactId>
 <<<<<<< HEAD
+  <packaging>jar</packaging>
+=======
+<<<<<<< HEAD
   <packaging>war</packaging>
 =======
   <packaging>jar</packaging>
 >>>>>>> a664dc2b01b1cbe251128a426dca58a8b7a26160
+>>>>>>> 17990d55495ebcff109e359b14cc06655a672605
   <version>1.0-SNAPSHOT</version>
   <name>my-app</name>
   <url>http://maven.apache.org</url>
