@@ -3,10 +3,10 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example</groupId>
   <artifactId>my-app</artifactId>
-<<<<<<< HEAD
+ HEAD
   <packaging>jar</packaging>
 =======
-<<<<<<< HEAD
+ HEAD
   <packaging>war</packaging>
 =======
   <packaging>jar</packaging>
